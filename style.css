@@ -1,0 +1,16 @@
+body {font: 15px/1.5 'Segoe UI', Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 1em; color: #333; background: #fff;}
+header {border-bottom: 2px solid #123b69; padding-bottom: 1em; margin-bottom: 2em;}
+.hdr-inner h1 {margin: 0; color: #123b69; font-size: 1.8em;}
+.subtitle {color: #666; margin: 0.3em 0 0 0; font-size: 0.95em;}
+nav {margin-top: 1em; padding-top: 0.8em; border-top: 1px solid #eee;}
+nav a {color: #123b69; text-decoration: none; margin-right: 1.5em; font-weight: 600;}
+nav a:hover {text-decoration: underline;}
+main h2 {color: #123b69; border-bottom: 1px solid #ccc; padding-bottom: 0.3em;}
+main h3 {color: #345;}
+.articles li {padding: 0.4em 0;}
+.news {background: #f4f6fa; padding: 1em; border-left: 4px solid #123b69; margin: 2em 0;}
+.indexes {margin-top: 2em; color: #555;}
+figure.award {text-align: center; margin: 1.5em 0;}
+figure.award img {max-width: 500px; width: 100%; border: 1px solid #ccc; padding: 4px; background: #f8f7f2;}
+figcaption {color: #777; font-style: italic; margin-top: 0.4em;}
+footer {margin-top: 3em; border-top: 1px solid #ccc; padding-top: 1em; color: #888; font-size: 0.9em;}

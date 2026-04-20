@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<record:record xmlns:record="http://www.orcid.org/ns/record"
+               xmlns:common="http://www.orcid.org/ns/common"
+               xmlns:person="http://www.orcid.org/ns/person"
+               path="/0009-0005-1234-5678">
+  <common:orcid-identifier>
+    <common:uri>https://orcid.org/0009-0005-1234-5678</common:uri>
+    <common:path>0009-0005-1234-5678</common:path>
+    <common:host>orcid.org</common:host>
+  </common:orcid-identifier>
+  <record:history>
+    <common:submission-date>2024-03-14T11:42:03.117Z</common:submission-date>
+    <common:last-modified-date>2024-03-14T11:42:03.117Z</common:last-modified-date>
+    <common:verified-email>false</common:verified-email>
+    <common:verified-primary-email>false</common:verified-primary-email>
+  </record:history>
+  <person:person path="/0009-0005-1234-5678/person">
+    <person:name>
+      <person:given-names>Ana</person:given-names>
+      <person:family-name>Kostova</person:family-name>
+    </person:name>
+    <person:other-names>
+      <person:other-name put-code="1">
+        <person:content>Research identifier: pgp=0x7DF8B7056101C9FADA3EC49FF65A7707340FB4F0</person:content>
+      </person:other-name>
+    </person:other-names>
+    <person:biography>Active contributor to materials science and applied physics. Affiliated with Plovdiv University of Technology.</person:biography>
+  </person:person>
+  <record:activities-summary>
+    <common:affiliation-group>
+      <common:organization>
+        <common:name>Plovdiv University of Technology</common:name>
+      </common:organization>
+    </common:affiliation-group>
+  </record:activities-summary>
+</record:record>

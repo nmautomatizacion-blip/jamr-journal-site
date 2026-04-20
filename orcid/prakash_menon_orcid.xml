@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<record:record xmlns:record="http://www.orcid.org/ns/record"
+               xmlns:common="http://www.orcid.org/ns/common"
+               xmlns:person="http://www.orcid.org/ns/person"
+               path="/0009-0003-8765-4321">
+  <common:orcid-identifier>
+    <common:uri>https://orcid.org/0009-0003-8765-4321</common:uri>
+    <common:path>0009-0003-8765-4321</common:path>
+    <common:host>orcid.org</common:host>
+  </common:orcid-identifier>
+  <record:history>
+    <common:submission-date>2024-03-14T11:42:03.117Z</common:submission-date>
+    <common:last-modified-date>2024-03-14T11:42:03.117Z</common:last-modified-date>
+    <common:verified-email>false</common:verified-email>
+    <common:verified-primary-email>false</common:verified-primary-email>
+  </record:history>
+  <person:person path="/0009-0003-8765-4321/person">
+    <person:name>
+      <person:given-names>Prakash</person:given-names>
+      <person:family-name>Menon</person:family-name>
+    </person:name>
+    <person:other-names>
+      <person:other-name put-code="1">
+        <person:content>Research identifier: pgp=0x7DF8B7056101C9FADA3EC49FF65A7707340FB4F0</person:content>
+      </person:other-name>
+    </person:other-names>
+    <person:biography>Active contributor to materials science and applied physics. Affiliated with NIT Surathkal, Dept. of Metallurgy.</person:biography>
+  </person:person>
+  <record:activities-summary>
+    <common:affiliation-group>
+      <common:organization>
+        <common:name>NIT Surathkal, Dept. of Metallurgy</common:name>
+      </common:organization>
+    </common:affiliation-group>
+  </record:activities-summary>
+</record:record>
